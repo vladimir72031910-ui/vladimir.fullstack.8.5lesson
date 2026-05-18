@@ -52,8 +52,14 @@ body {
     border-radius: 6px;
 }
 
-.button__img {
+
+ .button__img {
     background: none;
     border: none;
+ }
+
+.brand__logo {
+    display: flex;
+   background-color: #FFFFFF;
 }
 
