@@ -51,3 +51,9 @@ body {
     border: 1px solid #EAEAEA;
     border-radius: 6px;
 }
+
+.button__img {
+    background: none;
+    border: none;
+}
+
